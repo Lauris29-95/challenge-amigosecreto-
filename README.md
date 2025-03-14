@@ -1,7 +1,2 @@
-echo "# challenge-amigosecreto-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Lauris29-95/challenge-amigosecreto-.git
-git push -u origin main
+Challenge amigo secreto
+Es un desafio para desarrollar habilidades de programación, el objetivo es la creación de una aplicación que permita a los usuarios ingresar nombres de amigos y luego realizar un sorteo aleatorio para determinar quien es el amigo secreto. Esto permite aplicar de manera práctica conceptos fundamentales de logica de programación.
